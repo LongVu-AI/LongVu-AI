@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Vũ Thiên Long 👋
 
-<!--
-**LongVu-AI/LongVu-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+An IT student from HUIT (Ho Chi Minh City University of Industry and Trade) focusing on **Backend Development**[cite: 1]. I love building logical, structured, and scalable web applications, with a strong foundation in C# and the .NET ecosystem[cite: 1]. 
 
-Here are some ideas to get you started:
+My current goal is to secure a **Backend Developer Intern/Fresher** position to tackle real-world challenges and evolve into a Full-stack Developer in the next 3 years[cite: 1].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Location: Ho Chi Minh City, Vietnam[cite: 1]
+- 📧 Contact: longvt02052005@gmail.com[cite: 1]
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Backend & Core:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat&logo=.net&logoColor=white)
+
+**Databases & Frontend (Basic):**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+**Tools & Platforms:**
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+---
+
+### 💻 Featured Project
+
+#### 🛒 Online Retail Analytics & E-commerce System[cite: 1]
+*Backend Developer | March 2026 - May 2026*[cite: 1]
+* Developed the backend architecture using **C#** and **ASP.NET Core MVC**[cite: 1].
+* Managed shopping cart logic using **RAM Session storage** for secure server-side tracking[cite: 1].
+* Built asynchronous APIs with **AJAX / Fetch API** for seamless, real-time cart updates[cite: 1].
+* Optimized database queries with **Entity Framework Core (LINQ)**, applying eager loading and server-side pagination[cite: 1].
+* Integrated a dynamic product recommendation feature based on pre-defined association rules[cite: 1].
+
+---
+
+### 📊 GitHub Stats
+![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=LongVu-Al&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongVu-Al&layout=compact&theme=dark)
