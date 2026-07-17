@@ -1,12 +1,12 @@
 # Hi there, I'm Vũ Thiên Long 👋
 
 ### 🚀 About Me
-An IT student from HUIT (Ho Chi Minh City University of Industry and Trade) focusing on **Backend Development**[cite: 1]. I love building logical, structured, and scalable web applications, with a strong foundation in C# and the .NET ecosystem[cite: 1]. 
+An IT student from HUIT (Ho Chi Minh City University of Industry and Trade) focusing on **Backend Development**. I love building logical, structured, and scalable web applications, with a strong foundation in C# and the .NET ecosystem. 
 
-My current goal is to secure a **Backend Developer Intern/Fresher** position to tackle real-world challenges and evolve into a Full-stack Developer in the next 3 years[cite: 1].
+My current goal is to secure a **Backend Developer Intern/Fresher** position to tackle real-world challenges and evolve into a Full-stack Developer in the next 3 years.
 
-- 📍 Location: Ho Chi Minh City, Vietnam[cite: 1]
-- 📧 Contact: longvt02052005@gmail.com[cite: 1]
+- 📍 Location: Ho Chi Minh City, Vietnam
+- 📧 Contact: longvt02052005@gmail.com
 
 ---
 
@@ -33,13 +33,13 @@ My current goal is to secure a **Backend Developer Intern/Fresher** position to 
 
 ### 💻 Featured Project
 
-#### 🛒 Online Retail Analytics & E-commerce System[cite: 1]
-*Backend Developer | March 2026 - May 2026*[cite: 1]
-* Developed the backend architecture using **C#** and **ASP.NET Core MVC**[cite: 1].
-* Managed shopping cart logic using **RAM Session storage** for secure server-side tracking[cite: 1].
-* Built asynchronous APIs with **AJAX / Fetch API** for seamless, real-time cart updates[cite: 1].
-* Optimized database queries with **Entity Framework Core (LINQ)**, applying eager loading and server-side pagination[cite: 1].
-* Integrated a dynamic product recommendation feature based on pre-defined association rules[cite: 1].
+#### 🛒 Online Retail Analytics & E-commerce System
+*Backend Developer | March 2026 - May 2026*
+* Developed the backend architecture using **C#** and **ASP.NET Core MVC**.
+* Managed shopping cart logic using **RAM Session storage** for secure server-side tracking.
+* Built asynchronous APIs with **AJAX / Fetch API** for seamless, real-time cart updates.
+* Optimized database queries with **Entity Framework Core (LINQ)**, applying eager loading and server-side pagination.
+* Integrated a dynamic product recommendation feature based on pre-defined association rules.
 
 ---
 
