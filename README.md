@@ -6,6 +6,7 @@ An IT student from HUIT (Ho Chi Minh City University of Industry and Trade) focu
 My current goal is to secure a **Backend Developer Intern/Fresher** position to tackle real-world challenges and evolve into a Full-stack Developer in the next 3 years.
 
 - 📍 Location: Ho Chi Minh City, Vietnam
+- 📞 Phone: 0772703102
 - 📧 Contact: longvt02052005@gmail.com
 
 ---
