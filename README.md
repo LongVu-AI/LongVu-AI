@@ -44,6 +44,7 @@ My current goal is to secure a **Backend Developer Intern/Fresher** position to 
 
 ---
 
-### 📊 GitHub Stats
-![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=LongVu-Al&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LongVu-Al&layout=compact&theme=dark)
+### 🌟 Soft Skills & Core Values
+- **Logical Thinking & Problem-Solving:** Ability to analyze system requirements and design optimized database structures.
+- **Self-Learning & Adaptability:** Proactively researching new technologies with a strong commitment to becoming a Full-stack Developer.
+- **Technical Reading:** Good command of reading technical documentation, API specifications, and programming guides in English.
