@@ -1,17 +1,17 @@
 # Hi there, I'm Vũ Thiên Long 👋
 
-### 🚀 About Me
+###  About Me
 An IT student from HUIT (Ho Chi Minh City University of Industry and Trade) focusing on **Backend Development**. I love building logical, structured, and scalable web applications, with a strong foundation in C# and the .NET ecosystem. 
 
 My current goal is to secure a **Backend Developer Intern/Fresher** position to tackle real-world challenges and evolve into a Full-stack Developer in the next 3 years.
 
-- 📍 Location: Ho Chi Minh City, Vietnam
-- 📞 Phone: 0772703102
-- 📧 Contact: longvt02052005@gmail.com
+-  Location: Ho Chi Minh City, Vietnam
+-  Phone: 0772703102
+-  Contact: longvt02052005@gmail.com
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Backend & Core:**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
@@ -32,9 +32,9 @@ My current goal is to secure a **Backend Developer Intern/Fresher** position to 
 
 ---
 
-### 💻 Featured Project
+###  Featured Project
 
-#### 🛒 Online Retail Analytics & E-commerce System
+####  Online Retail Analytics & E-commerce System
 *Backend Developer | March 2026 - May 2026*
 * Developed the backend architecture using **C#** and **ASP.NET Core MVC**.
 * Managed shopping cart logic using **RAM Session storage** for secure server-side tracking.
@@ -44,7 +44,7 @@ My current goal is to secure a **Backend Developer Intern/Fresher** position to 
 
 ---
 
-### 🌟 Soft Skills & Core Values
+###  Soft Skills & Core Values
 - **Logical Thinking & Problem-Solving:** Ability to analyze system requirements and design optimized database structures.
 - **Self-Learning & Adaptability:** Proactively researching new technologies with a strong commitment to becoming a Full-stack Developer.
 - **Technical Reading:** Good command of reading technical documentation, API specifications, and programming guides in English.
